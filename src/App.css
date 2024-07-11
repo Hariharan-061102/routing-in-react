@@ -1,7 +1,47 @@
 .App {
   text-align: center;
 }
+.head-top{
+  background-color: grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.foot,.foot p{
+  background-color: grey;
+  font-size: large;
+  text-align: center;
+  margin-top: 20px;
+}
 
+.head-top{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.nav-link{
+  padding-left: 15px;
+  padding-right: 15px;
+  color: beige;
+  font-size: large;
+}
+.Homecontainer{
+  height: 900px;;
+  width: 98%;
+  background-image: url("./images/background.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.Homecontainer h1,.Homecontainer p{
+  text-align: center;
+  font-size: xx-large;
+  color: rgb(53, 50, 50);
+  padding-top: 400px;
+}
+.Homecontainer p{
+  padding-top: 25px;
+  font-size: x-large;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,7 +52,45 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.Departmentcontainer{
+  text-align: center;
+}
+.Departmentcontainer tr,.Departmentcontainer th,.Departmentcontainer td{
+  text-align: center;
+  border: double #282c34;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.Departmentcontainer table{
+  text-align: center;
+  margin-left: 22%;
+  margin-right: 25%;
+}
+.Aboutcontainer{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.Aboutcontainer h1,.Aboutcontainer h2{
+  text-align: center;
+}
+.Aboutcontainer p{
+  font-size: large;
+}
+.Aboutcontainer li{
+  font-size: medium;
+}
+.Eventcontainer{
+  text-align: center;
+  box-sizing: border-box;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+  border: solid;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
