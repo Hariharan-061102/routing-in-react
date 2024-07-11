@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/routing-in-react/static/css/main.5ed1de5b.css",
-    "main.js": "/routing-in-react/static/js/main.4746ac98.js",
+    "main.js": "/routing-in-react/static/js/main.176c4e92.js",
     "static/js/453.7b7234d1.chunk.js": "/routing-in-react/static/js/453.7b7234d1.chunk.js",
     "static/media/background.jpg": "/routing-in-react/static/media/background.91811672bc002500d829.jpg",
     "static/media/art-exhibition.jpg": "/routing-in-react/static/media/art-exhibition.d0794cacc1bbaaa17d30.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/routing-in-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/routing-in-react/index.html",
     "main.5ed1de5b.css.map": "/routing-in-react/static/css/main.5ed1de5b.css.map",
-    "main.4746ac98.js.map": "/routing-in-react/static/js/main.4746ac98.js.map",
+    "main.176c4e92.js.map": "/routing-in-react/static/js/main.176c4e92.js.map",
     "453.7b7234d1.chunk.js.map": "/routing-in-react/static/js/453.7b7234d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ed1de5b.css",
-    "static/js/main.4746ac98.js"
+    "static/js/main.176c4e92.js"
   ]
 }
